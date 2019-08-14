@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Owebia_Shipping_2",
+    "type": "magento-module",
+    "license": "The-MIT-License-(MIT)",
+    "homepage": "",
+    "description": "Flexible Shipping Methods / Modes de livraison flexibles",
+    "authors": [
+    {
+        "name": "owebia",
+        "email": "antoine.lemoine@owebia.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
